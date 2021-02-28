@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "title": "Hawaii",
+        "title": "Kalyan",
         "desktop-image": "hawaii.jpg",
         "mobile-image": "hawaii_m.jpg"
     },
     {
         "id": 2,
-        "title": "Paris",
+        "title": "Ahmedabad",
         "desktop-image": "paris.jpg",
         "mobile-image": "paris_m.jpg"
     },
